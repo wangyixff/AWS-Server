@@ -8,4 +8,5 @@ Oauth2lib
 Sqlachemy
 sqlite
 mysql
+finger
 python-setuptools
