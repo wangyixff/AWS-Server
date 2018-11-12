@@ -10,3 +10,5 @@ sqlite
 mysql
 finger
 python-setuptools
+## password for grader's SSH key
+catalog
