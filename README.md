@@ -8,3 +8,4 @@ Oauth2lib
 Sqlachemy
 sqlite
 mysql
+python-setuptools
