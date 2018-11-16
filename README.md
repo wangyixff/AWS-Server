@@ -20,3 +20,8 @@ The web service provider used is AWS Lightsail.
 -finger
 -python-setuptools
 ### Configurations made
+
+## References
+
+- Udacity FSWD course materials
+- Item description texts are from https://www.sportchek.ca
