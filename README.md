@@ -5,9 +5,12 @@ The web service provider used is AWS Lightsail.
 
 ## Essentials for the Reviewer
 
-### Passphrase for "grader" login: catalog
-### IP address:34.211.35.166
-### Website URL:http://34.211.35.166.xip.io
+### Passphrase for "grader" login
+catalog
+### IP address
+34.211.35.166
+### Website URL
+http://34.211.35.166.xip.io
 ### Software installed
 - Apache2
 - Pip
